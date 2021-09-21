@@ -1,0 +1,31 @@
+body{
+    margin: 0px;
+}
+#Bayrak{
+    
+    box-shadow: 3px 4px 6px black;
+    top:0px;
+    left:0px;
+    background-color: red;
+    height: 512px;
+    width: 512px;
+   
+}
+#Yatay{
+    position: absolute;
+    background-color: white;
+    left: 96px;
+    top: 208px;
+    height: 96px;
+    width:320px;
+
+}
+#Dikey{
+    position: absolute;
+    background-color: white;
+    top:96px;
+    left: 208px;
+    height:320px;
+    width: 96px;
+    
+}
